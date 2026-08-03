@@ -33,6 +33,35 @@ TEAMS = [
     {"id":"basketball-varsity-boys","sport":"Basketball","level":"Varsity Boys","icon":"basketball",
      "url":BASE+"/basketball/schedule/","mp_url":BASE+"/basketball/",
      "year":"2026-27","season_start":"2026-07-11","season_end":"2027-03-15",
+     # fallback_games: used if MaxPreps scraping fails on any given day
+     "fallback_games":[
+         {"date":"2026-11-07","opp":"Tournament TBA (Preseason)","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2026-11-07","opp":"Tournament TBA (Preseason)","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2026-11-13","opp":"Tournament TBA (Preseason)","ha":"away","time":"TBA","res":None,"score":None},
+         {"date":"2026-11-14","opp":"Tournament TBA (Preseason)","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2026-11-16","opp":"Freedom Christian Academy","ha":"away","time":"7:00PM","res":None,"score":None},
+         {"date":"2026-11-17","opp":"Father Capodanno","ha":"home","time":"6:00PM","res":None,"score":None},
+         {"date":"2026-11-19","opp":"Riverside Christian Academy","ha":"away","time":"7:00PM","res":None,"score":None},
+         {"date":"2026-12-04","opp":"Father Capodanno","ha":"away","time":"5:30PM","res":None,"score":None},
+         {"date":"2026-12-08","opp":"Alpha Academy","ha":"home","time":"7:00PM","res":None,"score":None},
+         {"date":"2026-12-10","opp":"Freedom Christian Academy","ha":"away","time":"7:00PM","res":None,"score":None},
+         {"date":"2026-12-11","opp":"Christ the Cornerstone Academy","ha":"home","time":"7:00PM","res":None,"score":None},
+         {"date":"2026-12-15","opp":"Cornerstone Christian Academy","ha":"home","time":"6:30PM","res":None,"score":None},
+         {"date":"2026-12-21","opp":"Tournament TBA (Christmas)","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2026-12-22","opp":"Tournament TBA (Christmas)","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2026-12-23","opp":"Tournament TBA (Christmas)","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2027-01-11","opp":"Christ the Cornerstone Academy","ha":"away","time":"7:00PM","res":None,"score":None},
+         {"date":"2027-01-15","opp":"Grovemont","ha":"home","time":"7:15PM","res":None,"score":None},
+         {"date":"2027-01-22","opp":"Riverside Christian Academy","ha":"home","time":"6:00PM","res":None,"score":None},
+         {"date":"2027-01-26","opp":"Alpha Academy","ha":"away","time":"7:00PM","res":None,"score":None},
+         {"date":"2027-01-29","opp":"Cornerstone Christian Academy","ha":"away","time":"6:30PM","res":None,"score":None},
+         {"date":"2027-02-18","opp":"Grovemont","ha":"away","time":"7:15PM","res":None,"score":None},
+         {"date":"2027-03-08","opp":"Gatlinburg National Championship","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2027-03-09","opp":"Gatlinburg National Championship","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2027-03-10","opp":"Gatlinburg National Championship","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2027-03-11","opp":"Gatlinburg National Championship","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2027-03-12","opp":"Gatlinburg National Championship","ha":"home","time":"TBA","res":None,"score":None},
+     ],
      "history":[{"year":"2025-26","startDate":"2025-11-01","endDate":"2026-02-28",
                  "mpUrl":BASE+"/basketball/25-26/schedule/","record":{"w":10,"l":8},
                  "note":"2025\u201326 season complete.","games":[
@@ -42,6 +71,18 @@ TEAMS = [
     {"id":"basketball-jv-boys","sport":"Basketball","level":"JV Boys","icon":"basketball",
      "url":BASE+"/basketball/jv/schedule/","mp_url":BASE+"/basketball/jv/",
      "year":"2026-27","season_start":"2026-07-07","season_end":"2027-02-28",
+     "fallback_games":[
+         {"date":"2026-11-16","opp":"Freedom Christian Academy","ha":"away","time":"5:00PM","res":None,"score":None},
+         {"date":"2026-12-08","opp":"Alpha Academy","ha":"home","time":"5:30PM","res":None,"score":None},
+         {"date":"2026-12-10","opp":"Freedom Christian Academy","ha":"away","time":"5:30PM","res":None,"score":None},
+         {"date":"2026-12-11","opp":"Christ the Cornerstone Academy","ha":"home","time":"5:00PM","res":None,"score":None},
+         {"date":"2026-12-15","opp":"Cornerstone Christian Academy","ha":"home","time":"5:00PM","res":None,"score":None},
+         {"date":"2027-01-11","opp":"Christ the Cornerstone Academy","ha":"home","time":"5:30PM","res":None,"score":None},
+         {"date":"2027-01-15","opp":"Grovemont","ha":"home","time":"6:00PM","res":None,"score":None},
+         {"date":"2027-01-26","opp":"Alpha Academy","ha":"away","time":"7:00PM","res":None,"score":None},
+         {"date":"2027-01-29","opp":"Cornerstone Christian Academy","ha":"away","time":"5:00PM","res":None,"score":None},
+         {"date":"2027-02-18","opp":"Grovemont","ha":"away","time":"5:30PM","res":None,"score":None},
+     ],
      "history":[{"year":"2025-26","startDate":"2025-11-01","endDate":"2026-02-28",
                  "mpUrl":BASE+"/basketball/jv/25-26/schedule/","record":{"w":8,"l":17},
                  "note":"2025\u201326 season complete.","games":[
@@ -52,6 +93,25 @@ TEAMS = [
      "url":BASE+"/basketball/freshman/schedule/","mp_url":BASE+"/basketball/freshman/",
      "year":"2026-27","season_start":"2026-07-07","season_end":"2027-02-28",
      "ms_note":"Results on MaxPreps under the \u201cFreshman\u201d tab.",
+     "fallback_games":[
+         {"date":"2026-11-14","opp":"Tournament TBA","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2026-11-14","opp":"Tournament TBA","ha":"home","time":"TBA","res":None,"score":None},
+         {"date":"2026-11-16","opp":"Freedom Christian Academy","ha":"away","time":"4:00PM","res":None,"score":None},
+         {"date":"2026-11-19","opp":"Riverside Christian Academy","ha":"away","time":"6:00PM","res":None,"score":None},
+         {"date":"2026-11-20","opp":"Opponent TBA","ha":"home","time":"4:30PM","res":None,"score":None},
+         {"date":"2026-12-07","opp":"Opponent TBA","ha":"home","time":"4:00PM","res":None,"score":None},
+         {"date":"2026-12-08","opp":"Alpha Academy","ha":"home","time":"4:30PM","res":None,"score":None},
+         {"date":"2026-12-11","opp":"Christ the Cornerstone Academy","ha":"home","time":"4:30PM","res":None,"score":None},
+         {"date":"2026-12-15","opp":"Cornerstone Christian Academy","ha":"home","time":"4:00PM","res":None,"score":None},
+         {"date":"2026-12-17","opp":"Opponent TBA","ha":"home","time":"4:30PM","res":None,"score":None},
+         {"date":"2027-01-08","opp":"Opponent TBA","ha":"home","time":"4:00PM","res":None,"score":None},
+         {"date":"2027-01-11","opp":"Christ the Cornerstone Academy","ha":"away","time":"4:30PM","res":None,"score":None},
+         {"date":"2027-01-15","opp":"Grovemont","ha":"home","time":"5:00PM","res":None,"score":None},
+         {"date":"2027-01-22","opp":"Riverside Christian Academy","ha":"home","time":"5:00PM","res":None,"score":None},
+         {"date":"2027-01-28","opp":"Alpha Academy","ha":"away","time":"4:30PM","res":None,"score":None},
+         {"date":"2027-01-29","opp":"Cornerstone Christian Academy","ha":"home","time":"4:00PM","res":None,"score":None},
+         {"date":"2027-02-18","opp":"Grovemont","ha":"away","time":"4:30PM","res":None,"score":None},
+     ],
      "history":[{"year":"2025-26","startDate":"2025-11-01","endDate":"2026-02-28",
                  "mpUrl":BASE+"/basketball/freshman/25-26/schedule/","record":{"w":7,"l":17},
                  "note":"2025\u201326 season complete. Results on MaxPreps under the \u201cFreshman\u201d tab.","games":[
@@ -257,6 +317,10 @@ def build_team_js(team, scraped):
             if played:
                 w=sum(1 for g in played if g["res"]=="W"); l=sum(1 for g in played if g["res"]=="L"); t=sum(1 for g in played if g["res"]=="T")
                 cur["record"]={"w":w,"l":l} if not t else {"w":w,"l":l,"t":t}
+    else:
+        # Scraping failed — use fallback_games so the schedule still shows
+        if team.get("fallback_games"):
+            cur["games"] = team["fallback_games"]
     seasons.append(cur)
     parts=[]
     for s in seasons:

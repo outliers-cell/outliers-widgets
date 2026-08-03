@@ -1,0 +1,39 @@
+name: Daily Widget Update
+
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 7:00 AM Eastern (11:00 UTC) every day
+  workflow_dispatch:         # Run manually any time from the Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install playwright requests beautifulsoup4 lxml
+
+      - name: Install Playwright browser
+        run: playwright install chromium --with-deps
+
+      - name: Run widget generator
+        run: python scripts/update.py
+
+      - name: Commit and push all changes
+        run: |
+          git config user.name  "Outliers Widget Bot"
+          git config user.email "outliers@fayhomeschoolsports.org"
+          git add -A
+          git diff --staged --quiet && echo "Nothing changed." || (
+            git commit -m "Daily update $(date -u +'%Y-%m-%d %H:%M UTC')" && git push
+          )

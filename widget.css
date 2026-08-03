@@ -1,0 +1,67 @@
+
+  #%%ID%% {
+    --ink:#1a0a0d;--maroon:#7c021e;--maroon-deep:#4a0112;
+    --blue:#0bc8ee;--blue-soft:#bdf1fb;--chalk:#F4F6F9;
+    --line:#DDE2E8;--muted:#93909a;
+    --font-body:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+    --font-mono:'Inter','SFMono-Regular',Consolas,Menlo,monospace;
+    --font-brand:'Forte','Comic Sans MS',cursive;
+    box-sizing:border-box;background:var(--chalk);color:var(--ink);
+    font-family:var(--font-body);border-radius:14px;overflow:hidden;border:1px solid var(--line);
+  }
+  #%%ID%% *,#%%ID%% *::before,#%%ID%% *::after{box-sizing:border-box;}
+  #%%ID%% .fhs-header{background:#000;color:#fff;padding:18px 24px 16px;position:relative;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px 18px;}
+  #%%ID%% .fhs-header::after{content:"";position:absolute;left:0;right:0;bottom:0;height:4px;background:linear-gradient(90deg,var(--blue) 0%,var(--blue-soft) 60%,transparent 100%);}
+  #%%ID%% .fhs-logo{height:46px;width:auto;display:block;}
+  #%%ID%% .fhs-tagline{font-family:var(--font-brand);font-size:17px;letter-spacing:.02em;color:var(--blue);margin:0;}
+  #%%ID%% .fhs-updated{font-size:11.5px;opacity:.7;font-family:var(--font-mono);white-space:nowrap;width:100%;text-align:right;}
+  #%%ID%% .fhs-header-left{display:flex;align-items:center;gap:12px;}
+  #%%ID%% .fhs-filters{display:flex;flex-wrap:wrap;gap:8px;padding:16px 20px 4px;}
+  #%%ID%% .fhs-pill{font-family:var(--font-body);font-size:13px;font-weight:600;padding:7px 14px;border-radius:999px;border:1.5px solid var(--maroon);background:transparent;color:var(--maroon);cursor:pointer;transition:background .15s,color .15s;}
+  #%%ID%% .fhs-pill:hover{background:rgba(124,2,30,.08);}
+  #%%ID%% .fhs-pill[aria-pressed="true"]{background:var(--maroon);color:#fff;}
+  #%%ID%% .fhs-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:16px;padding:16px 20px 22px;}
+  #%%ID%% .fhs-card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 16px 14px;display:flex;flex-direction:column;gap:10px;}
+  #%%ID%% .fhs-card.fhs-hidden{display:none;}
+  #%%ID%% .fhs-card-head{display:flex;align-items:flex-start;gap:10px;}
+  #%%ID%% .fhs-badge-plate{width:52px;height:52px;flex:none;background:#000;border-radius:10px;display:flex;align-items:center;justify-content:center;overflow:hidden;}
+  #%%ID%% .fhs-badge-plate img{width:90%;height:90%;object-fit:contain;}
+  #%%ID%% .fhs-card-titles{flex:1;min-width:0;}
+  #%%ID%% .fhs-sport{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--maroon);font-weight:700;margin:0 0 1px;}
+  #%%ID%% .fhs-level{font-size:15px;font-weight:700;margin:0;color:var(--ink);}
+  #%%ID%% .fhs-season-yr{font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:2px 0 0;font-family:var(--font-mono);}
+  #%%ID%% .fhs-status{font-size:10.5px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:3px 8px;border-radius:999px;white-space:nowrap;flex:none;background:var(--chalk);color:var(--muted);border:1px solid var(--line);}
+  #%%ID%% .fhs-status.is-final{background:#FDEDEF;color:var(--maroon);border-color:#F5C9D1;}
+  #%%ID%% .fhs-status.is-pre{background:#E6F9FD;color:#047a93;border-color:#BDEEF8;}
+  #%%ID%% .fhs-status.is-live{background:#E8F8EE;color:#1a7a40;border-color:#B8EAC9;}
+  #%%ID%% .fhs-record-row{display:flex;align-items:baseline;gap:10px;}
+  #%%ID%% .fhs-record{font-family:var(--font-mono);font-size:28px;font-weight:800;color:var(--maroon-deep);line-height:1;}
+  #%%ID%% .fhs-pct{font-family:var(--font-mono);font-size:12px;color:var(--muted);}
+  #%%ID%% .fhs-strip-label{font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin:0;}
+  #%%ID%% .fhs-strip{display:flex;gap:4px;flex-wrap:wrap;margin-top:2px;}
+  #%%ID%% .fhs-pip{width:13px;height:13px;border-radius:3px;border:1.5px solid var(--maroon);flex:none;}
+  #%%ID%% .fhs-pip.is-win{background:var(--blue);border-color:var(--blue);}
+  #%%ID%% .fhs-pip.is-loss{background:transparent;}
+  #%%ID%% .fhs-pip.is-tie{background:var(--muted);border-color:var(--muted);}
+  #%%ID%% .fhs-next{font-size:13px;background:var(--chalk);border-radius:8px;padding:8px 10px;line-height:1.4;margin:0;}
+  #%%ID%% .fhs-next strong{color:var(--maroon-deep);}
+  #%%ID%% .fhs-note{font-size:13px;color:var(--muted);font-style:italic;line-height:1.4;margin:0;}
+  #%%ID%% details.fhs-sched{border-top:1px solid var(--line);padding-top:8px;margin-top:2px;}
+  #%%ID%% details.fhs-sched summary{font-size:13px;font-weight:600;color:var(--maroon);cursor:pointer;list-style:none;}
+  #%%ID%% details.fhs-sched summary::-webkit-details-marker{display:none;}
+  #%%ID%% details.fhs-sched summary::before{content:"\25B8 ";display:inline-block;transition:transform .15s;}
+  #%%ID%% details.fhs-sched[open] summary::before{transform:rotate(90deg);}
+  #%%ID%% .fhs-game-list{margin:8px 0 0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px;max-height:240px;overflow-y:auto;}
+  #%%ID%% .fhs-game-list li{display:flex;justify-content:space-between;gap:8px;font-size:12.5px;padding:4px 2px;border-bottom:1px dashed var(--line);}
+  #%%ID%% .fhs-game-date{font-family:var(--font-mono);color:var(--muted);flex:none;width:64px;}
+  #%%ID%% .fhs-game-opp{flex:1;}
+  #%%ID%% .fhs-game-res{font-family:var(--font-mono);font-weight:700;flex:none;}
+  #%%ID%% .fhs-game-res.w{color:#1f8a4c;}
+  #%%ID%% .fhs-game-res.l{color:#b3273e;}
+  #%%ID%% .fhs-live-embed{min-height:180px;}
+  #%%ID%% .fhs-live-cap{font-size:11px;color:var(--muted);text-align:center;margin:0;}
+  #%%ID%% .fhs-link{margin-top:auto;font-size:12.5px;font-weight:600;color:var(--maroon);text-decoration:none;border-top:1px solid var(--line);padding-top:8px;}
+  #%%ID%% .fhs-link:hover{color:var(--blue);text-decoration:underline;}
+  #%%ID%% .fhs-footer{font-size:11.5px;color:var(--muted);text-align:center;padding:4px 20px 18px;line-height:1.6;}
+  #%%ID%% .fhs-footer a{color:var(--maroon);text-decoration:none;font-weight:600;}
+  #%%ID%% .fhs-footer a:hover{text-decoration:underline;}

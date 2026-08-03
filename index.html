@@ -1,1 +1,92 @@
-<!DOCTYPE html><html><head><meta charset='UTF-8'><title>Outliers Widgets</title><style>body{font-family:sans-serif;max-width:600px;margin:40px auto;padding:0 20px}a{color:#7c021e;font-weight:bold}li{margin:12px 0}</style></head><body><h1>Outliers Athletics Widget Directory</h1><p>Embed these URLs in Google Sites via <strong>Insert → Embed → By URL</strong></p><ul><li><a href='widget-basketball.html'>Basketball — Schedules & Records</a></li><li><a href='widget-girls-volleyball.html'>Girls Volleyball — Schedules & Records</a></li><li><a href='widget-boys-volleyball.html'>Boys Volleyball — Schedules & Records</a></li><li><a href='widget-baseball.html'>Baseball — Schedules & Records</a></li><li><a href='widget-all-sports.html'>All Sports — Schedules & Records</a></li></ul><p style='color:#999;font-size:13px'>Script last ran: 2026-08-03 19:58 UTC</p></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Outliers Athletics Widget Directory</title>
+
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+body{background:#F4F6F9;font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#1a0a0d;}
+.widget{border:1px solid #DDE2E8;border-radius:14px;overflow:hidden;background:#F4F6F9;}
+.hdr{background:#000;color:#fff;padding:16px 20px;position:relative;display:flex;align-items:center;gap:14px;flex-wrap:wrap;}
+.hdr::after{content:'';position:absolute;left:0;right:0;bottom:0;height:4px;background:linear-gradient(90deg,#0bc8ee,#bdf1fb 60%,transparent);}
+.hdr img{height:42px;width:auto;}
+.hdr-title{flex:1;}
+.hdr h1{font-family:'Forte','Comic Sans MS',cursive;font-size:16px;color:#0bc8ee;font-weight:normal;letter-spacing:.02em;}
+.hdr .upd{font-size:11px;opacity:.6;margin-top:2px;}
+.pills{display:flex;flex-wrap:wrap;gap:8px;padding:14px 18px 4px;}
+.pill{font-size:12px;font-weight:600;padding:6px 14px;border-radius:999px;border:1.5px solid #7c021e;background:transparent;color:#7c021e;cursor:pointer;text-decoration:none;display:inline-block;}
+.pill.active{background:#7c021e;color:#fff;}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;padding:14px 18px 18px;}
+.card{background:#fff;border:1px solid #DDE2E8;border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:9px;}
+.card-head{display:flex;align-items:flex-start;gap:10px;}
+.badge{width:48px;height:48px;flex:none;background:#000;border-radius:9px;display:flex;align-items:center;justify-content:center;overflow:hidden;}
+.badge img{width:88%;height:88%;object-fit:contain;}
+.card-titles{flex:1;}
+.sport{font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:#7c021e;font-weight:700;margin-bottom:1px;}
+.level{font-size:14px;font-weight:700;color:#1a0a0d;}
+.yr{font-size:9.5px;letter-spacing:.06em;text-transform:uppercase;color:#93909a;font-family:monospace;margin-top:2px;}
+.status{font-size:10px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:3px 8px;border-radius:999px;white-space:nowrap;flex:none;background:#F4F6F9;color:#93909a;border:1px solid #DDE2E8;}
+.status.final{background:#FDEDEF;color:#7c021e;border-color:#F5C9D1;}
+.status.pre{background:#E6F9FD;color:#047a93;border-color:#BDEEF8;}
+.status.live{background:#E8F8EE;color:#1a7a40;border-color:#B8EAC9;}
+.rec{font-size:26px;font-weight:800;color:#4a0112;font-family:monospace;line-height:1;}
+.pct{font-size:11px;color:#93909a;font-family:monospace;margin-top:1px;}
+.note{font-size:12.5px;color:#93909a;font-style:italic;line-height:1.4;background:#F4F6F9;border-radius:8px;padding:7px 9px;}
+.next{font-size:12.5px;background:#F4F6F9;border-radius:8px;padding:7px 9px;line-height:1.4;}
+.next strong{color:#4a0112;}
+details{border-top:1px solid #DDE2E8;padding-top:8px;margin-top:2px;}
+summary{font-size:12.5px;font-weight:600;color:#7c021e;cursor:pointer;list-style:none;padding:2px 0;}
+summary::-webkit-details-marker{display:none;}
+summary::before{content:'▸ ';}
+details[open] summary::before{content:'▾ ';}
+.glist{margin-top:8px;display:flex;flex-direction:column;gap:5px;max-height:220px;overflow-y:auto;}
+.grow{display:flex;justify-content:space-between;gap:6px;font-size:12px;padding:3px 2px;border-bottom:1px dashed #DDE2E8;}
+.gdate{color:#93909a;flex:none;width:62px;font-family:monospace;}
+.gopp{flex:1;}
+.gres{font-family:monospace;font-weight:700;flex:none;}
+.gres.w{color:#1f8a4c;} .gres.l{color:#b3273e;}
+.mplink{margin-top:auto;font-size:12px;font-weight:600;color:#7c021e;text-decoration:none;border-top:1px solid #DDE2E8;padding-top:8px;display:block;}
+.mplink:hover{color:#0bc8ee;}
+.footer{font-size:11px;color:#93909a;text-align:center;padding:4px 18px 16px;line-height:1.6;}
+.footer a{color:#7c021e;text-decoration:none;font-weight:600;}
+.live-box{background:#E8F8EE;border:1px solid #B8EAC9;border-radius:8px;padding:12px;text-align:center;font-size:12.5px;color:#1a7a40;min-height:80px;display:flex;align-items:center;justify-content:center;}
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+<style>
+body{max-width:640px;margin:0 auto;padding:24px 16px;}
+h1{font-family:'Forte','Comic Sans MS',cursive;color:#7c021e;font-size:22px;margin-bottom:6px;}
+.sub{color:#93909a;font-size:13px;margin-bottom:20px;}
+.wlist{list-style:none;display:flex;flex-direction:column;gap:12px;}
+.wlist li a{display:block;background:#fff;border:1px solid #DDE2E8;border-radius:10px;padding:14px 16px;text-decoration:none;color:#1a0a0d;font-weight:600;font-size:14px;}
+.wlist li a:hover{border-color:#7c021e;color:#7c021e;}
+.wlist li a span{display:block;font-size:11.5px;color:#93909a;font-weight:400;margin-top:3px;font-family:monospace;word-break:break-all;}
+.note{background:#E6F9FD;border:1px solid #BDEEF8;border-radius:8px;padding:12px;font-size:12.5px;color:#047a93;margin-top:20px;line-height:1.6;}
+</style>
+</head>
+<body>
+<h1>Outliers Athletics</h1>
+<p class="sub">Widget Directory &mdash; Embed any URL below in Google Sites via <strong>Insert &rarr; Embed &rarr; By URL</strong></p>
+<ul class="wlist">
+  <li><a href="widget-basketball.html">&#127944; Basketball &mdash; Schedules &amp; Records
+    <span>https://outliers-cell.github.io/outliers-widgets/widget-basketball.html</span></a></li>
+  <li><a href="widget-girls-volleyball.html">&#127952; Girls Volleyball &mdash; Schedules &amp; Records
+    <span>https://outliers-cell.github.io/outliers-widgets/widget-girls-volleyball.html</span></a></li>
+  <li><a href="widget-boys-volleyball.html">&#127952; Boys Volleyball &mdash; Schedules &amp; Records
+    <span>https://outliers-cell.github.io/outliers-widgets/widget-boys-volleyball.html</span></a></li>
+  <li><a href="widget-baseball.html">&#9918; Baseball &mdash; Schedules &amp; Records
+    <span>https://outliers-cell.github.io/outliers-widgets/widget-baseball.html</span></a></li>
+  <li><a href="widget-all-sports.html">&#127942; All Sports &mdash; All Teams on One Page
+    <span>https://outliers-cell.github.io/outliers-widgets/widget-all-sports.html</span></a></li>
+</ul>
+<div class="note">
+  <strong>Note:</strong> Basketball schedules are from the 2026-27 season posted on MaxPreps (first games in November).
+  Girls Volleyball is in pre-season &mdash; schedule will show once entered on MaxPreps.
+  Boys Volleyball shows the completed 2025-26 season (11&ndash;2, #35 NC).
+  MS Baseball is live from GameChanger. HS Baseball begins Spring 2027.
+</div>
+</body>
+</html>

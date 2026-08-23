@@ -12,7 +12,112 @@
   "volleyball-girls-jv": {
     "date": "2026-08-23",
     "scraped": {
-      "games": [],
+      "games": [
+        {
+          "date": "2025-09-18",
+          "opp": "JV Opponent",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2025-09-19",
+          "opp": "Father Capodanno",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "2-0"
+        },
+        {
+          "date": "2025-09-22",
+          "opp": "Ascend Leadership Academy",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2025-09-23",
+          "opp": "Alpha Academy",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2025-09-29",
+          "opp": "JV Opponent",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "1-2"
+        },
+        {
+          "date": "2025-09-30",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "3-2"
+        },
+        {
+          "date": "2025-10-02",
+          "opp": "JV Opponent",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-3"
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "JV Opponent",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2025-10-20",
+          "opp": "JV Opponent",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-3"
+        },
+        {
+          "date": "2025-10-23",
+          "opp": "Sandhills Classical Christian",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-3"
+        },
+        {
+          "date": "2026-08-18",
+          "opp": "Northwood Temple Academy",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2026-08-27",
+          "opp": "Brookside Christian Academy",
+          "ha": "away",
+          "time": "4:30PM",
+          "res": null,
+          "score": null
+        },
+        {
+          "date": "2026-08-28",
+          "opp": "Opponent TBA",
+          "ha": "away",
+          "time": "5:30PM",
+          "res": null,
+          "score": null
+        }
+      ],
       "record": {
         "w": 0,
         "l": 1
@@ -22,7 +127,128 @@
   "volleyball-girls-ms": {
     "date": "2026-08-23",
     "scraped": {
-      "games": [],
+      "games": [
+        {
+          "date": "2025-09-18",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "2-0"
+        },
+        {
+          "date": "2025-09-22",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "2-0"
+        },
+        {
+          "date": "2025-09-23",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "2-1"
+        },
+        {
+          "date": "2025-09-25",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "1-2"
+        },
+        {
+          "date": "2025-10-02",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2025-10-02",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "2-1"
+        },
+        {
+          "date": "2025-10-03",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "2-1"
+        },
+        {
+          "date": "2025-10-07",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "2-0"
+        },
+        {
+          "date": "2025-10-14",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "1-2"
+        },
+        {
+          "date": "2025-10-20",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2025-10-20",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "T",
+          "score": "1-1"
+        },
+        {
+          "date": "2025-10-21",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "2-0"
+        },
+        {
+          "date": "2026-08-18",
+          "opp": "Northwood Temple Academy",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2026-08-25",
+          "opp": "Opponent TBA",
+          "ha": "away",
+          "time": "4:00PM",
+          "res": null,
+          "score": null
+        },
+        {
+          "date": "2026-08-28",
+          "opp": "Opponent TBA",
+          "ha": "away",
+          "time": "4:30PM",
+          "res": null,
+          "score": null
+        }
+      ],
       "record": {
         "w": 0,
         "l": 1
@@ -32,7 +258,64 @@
   "basketball-varsity-boys": {
     "date": "2026-08-23",
     "scraped": {
-      "games": [],
+      "games": [
+        {
+          "date": "2026-01-19",
+          "opp": "DASH",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "46-75"
+        },
+        {
+          "date": "2026-01-20",
+          "opp": "Covenant Crusaders",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "70-50"
+        },
+        {
+          "date": "2026-01-23",
+          "opp": "Cornerstone Christian Academy",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "70-63"
+        },
+        {
+          "date": "2026-01-30",
+          "opp": "The Capitol Encore Academy",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "58-49"
+        },
+        {
+          "date": "2026-02-10",
+          "opp": "The Capitol Encore Academy",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "69-44"
+        },
+        {
+          "date": "2026-11-16",
+          "opp": "Freedom Christian Academy",
+          "ha": "away",
+          "time": "7:00PM",
+          "res": null,
+          "score": null
+        },
+        {
+          "date": "2026-11-17",
+          "opp": "Father Capodanno",
+          "ha": "home",
+          "time": "6:00PM",
+          "res": null,
+          "score": null
+        }
+      ],
       "record": {
         "w": 10,
         "l": 8
@@ -42,7 +325,112 @@
   "basketball-jv-boys": {
     "date": "2026-08-23",
     "scraped": {
-      "games": [],
+      "games": [
+        {
+          "date": "2026-01-16",
+          "opp": "Raleigh HomeSchool",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "31-58"
+        },
+        {
+          "date": "2026-01-19",
+          "opp": "DASH",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "22-61"
+        },
+        {
+          "date": "2026-01-20",
+          "opp": "JV Opponent",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "37-23"
+        },
+        {
+          "date": "2026-01-30",
+          "opp": "JV Opponent",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "22-52"
+        },
+        {
+          "date": "2026-02-05",
+          "opp": "South Wake",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "46-83"
+        },
+        {
+          "date": "2026-02-06",
+          "opp": "Sandhills Classical Christian",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "69-41"
+        },
+        {
+          "date": "2026-02-10",
+          "opp": "JV Opponent",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "43-61"
+        },
+        {
+          "date": "2026-02-12",
+          "opp": "Father Capodanno",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "52-46"
+        },
+        {
+          "date": "2026-02-13",
+          "opp": "JV Opponent",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "77-52"
+        },
+        {
+          "date": "2026-02-14",
+          "opp": "JV Opponent",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "56-44"
+        },
+        {
+          "date": "2026-11-16",
+          "opp": "Freedom Christian Academy",
+          "ha": "away",
+          "time": "5:00PM",
+          "res": null,
+          "score": null
+        },
+        {
+          "date": "2026-11-17",
+          "opp": "Sandhills Homeschool",
+          "ha": "home",
+          "time": "5:00PM",
+          "res": null,
+          "score": null
+        },
+        {
+          "date": "2026-12-01",
+          "opp": "Covenant Crusaders",
+          "ha": "away",
+          "time": "6:00PM",
+          "res": null,
+          "score": null
+        }
+      ],
       "record": {
         "w": 8,
         "l": 17
@@ -52,7 +440,104 @@
   "basketball-ms-boys": {
     "date": "2026-08-23",
     "scraped": {
-      "games": [],
+      "games": [
+        {
+          "date": "2026-01-09",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "22-48"
+        },
+        {
+          "date": "2026-01-12",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "16-70"
+        },
+        {
+          "date": "2026-01-13",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "24-18"
+        },
+        {
+          "date": "2026-01-19",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "27-28"
+        },
+        {
+          "date": "2026-01-20",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "31-22"
+        },
+        {
+          "date": "2026-01-22",
+          "opp": "Berean Baptist Academy",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "29-50"
+        },
+        {
+          "date": "2026-01-29",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "28-33"
+        },
+        {
+          "date": "2026-01-30",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "20-47"
+        },
+        {
+          "date": "2026-02-05",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "43-25"
+        },
+        {
+          "date": "2026-02-10",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "15-54"
+        },
+        {
+          "date": "2026-11-16",
+          "opp": "Freedom Christian Academy",
+          "ha": "away",
+          "time": "4:00PM",
+          "res": null,
+          "score": null
+        },
+        {
+          "date": "2026-11-20",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": "4:30PM",
+          "res": null,
+          "score": null
+        }
+      ],
       "record": {
         "w": 7,
         "l": 17
@@ -72,7 +557,48 @@
   "volleyball-boys-varsity": {
     "date": "2026-08-23",
     "scraped": {
-      "games": [],
+      "games": [
+        {
+          "date": "2026-04-21",
+          "opp": "Hoke County",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "1-3"
+        },
+        {
+          "date": "2026-04-22",
+          "opp": "Ascend Leadership Academy",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "3-2"
+        },
+        {
+          "date": "2026-04-24",
+          "opp": "Village Christian Academy",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "3-0"
+        },
+        {
+          "date": "2026-04-28",
+          "opp": "Purnell Swett",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "3-0"
+        },
+        {
+          "date": "2026-04-30",
+          "opp": "Freedom Christian Academy",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "3-2"
+        }
+      ],
       "record": {
         "w": 11,
         "l": 2

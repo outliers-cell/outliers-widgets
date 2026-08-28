@@ -1,6 +1,6 @@
 {
   "volleyball-girls-varsity": {
-    "date": "2026-08-26",
+    "date": "2026-08-28",
     "scraped": {
       "games": [],
       "record": {
@@ -10,17 +10,9 @@
     }
   },
   "volleyball-girls-jv": {
-    "date": "2026-08-26",
+    "date": "2026-08-28",
     "scraped": {
       "games": [
-        {
-          "date": "2025-09-18",
-          "opp": "JV Opponent",
-          "ha": "home",
-          "time": null,
-          "res": "L",
-          "score": "0-2"
-        },
         {
           "date": "2025-09-19",
           "opp": "Father Capodanno",
@@ -104,28 +96,36 @@
         {
           "date": "2026-08-27",
           "opp": "Brookside Christian Academy",
+          "ha": "home",
+          "time": null,
+          "res": "W",
+          "score": "3-1"
+        },
+        {
+          "date": "2026-08-31",
+          "opp": "Liberty Christian Academy",
           "ha": "away",
-          "time": "4:30PM",
+          "time": "5:30PM",
           "res": null,
           "score": null
         },
         {
-          "date": "2026-08-28",
+          "date": "2026-09-01",
           "opp": "Opponent TBA",
           "ha": "away",
-          "time": "5:30PM",
+          "time": "6:00PM",
           "res": null,
           "score": null
         }
       ],
       "record": {
-        "w": 0,
+        "w": 1,
         "l": 1
       }
     }
   },
   "volleyball-girls-ms": {
-    "date": "2026-08-26",
+    "date": "2026-08-28",
     "scraped": {
       "games": [
         {
@@ -233,26 +233,18 @@
           "score": "0-2"
         },
         {
-          "date": "2026-08-26",
-          "opp": "Opponent TBA",
-          "ha": "away",
-          "time": null,
-          "res": null,
-          "score": null
-        },
-        {
-          "date": "2026-08-28",
-          "opp": "Opponent TBA",
-          "ha": "away",
-          "time": "4:30PM",
-          "res": null,
-          "score": null
-        },
-        {
           "date": "2026-08-31",
           "opp": "Liberty Christian Academy",
           "ha": "away",
           "time": "4:00PM",
+          "res": null,
+          "score": null
+        },
+        {
+          "date": "2026-09-01",
+          "opp": "Opponent TBA",
+          "ha": "away",
+          "time": "5:00PM",
           "res": null,
           "score": null
         }
@@ -264,7 +256,7 @@
     }
   },
   "basketball-varsity-boys": {
-    "date": "2026-08-26",
+    "date": "2026-08-28",
     "scraped": {
       "games": [
         {
@@ -331,7 +323,7 @@
     }
   },
   "basketball-jv-boys": {
-    "date": "2026-08-26",
+    "date": "2026-08-28",
     "scraped": {
       "games": [
         {
@@ -424,7 +416,7 @@
         },
         {
           "date": "2026-11-17",
-          "opp": "Sandhills Homeschool",
+          "opp": "Sandhills Highlanders Homeschool Athletics",
           "ha": "home",
           "time": "5:00PM",
           "res": null,
@@ -446,7 +438,7 @@
     }
   },
   "basketball-ms-boys": {
-    "date": "2026-08-26",
+    "date": "2026-08-28",
     "scraped": {
       "games": [
         {
@@ -553,7 +545,7 @@
     }
   },
   "baseball-hs": {
-    "date": "2026-08-26",
+    "date": "2026-08-28",
     "scraped": {
       "games": [],
       "record": {
@@ -563,7 +555,7 @@
     }
   },
   "volleyball-boys-varsity": {
-    "date": "2026-08-26",
+    "date": "2026-08-28",
     "scraped": {
       "games": [
         {

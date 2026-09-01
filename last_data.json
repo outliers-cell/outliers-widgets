@@ -1,6 +1,6 @@
 {
   "volleyball-girls-varsity": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "scraped": {
       "games": [],
       "record": {
@@ -10,17 +10,9 @@
     }
   },
   "volleyball-girls-jv": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "scraped": {
       "games": [
-        {
-          "date": "2025-09-22",
-          "opp": "Ascend Leadership Academy",
-          "ha": "home",
-          "time": null,
-          "res": "L",
-          "score": "0-2"
-        },
         {
           "date": "2025-09-23",
           "opp": "Alpha Academy",
@@ -104,10 +96,10 @@
         {
           "date": "2026-08-31",
           "opp": "Liberty Christian Academy",
-          "ha": "away",
-          "time": "5:30PM",
-          "res": null,
-          "score": null
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
         },
         {
           "date": "2026-09-01",
@@ -116,26 +108,26 @@
           "time": "6:00PM",
           "res": null,
           "score": null
+        },
+        {
+          "date": "2026-09-03",
+          "opp": "Cornerstone Christian Academy",
+          "ha": "away",
+          "time": "4:00PM",
+          "res": null,
+          "score": null
         }
       ],
       "record": {
         "w": 2,
-        "l": 1
+        "l": 2
       }
     }
   },
   "volleyball-girls-ms": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "scraped": {
       "games": [
-        {
-          "date": "2025-09-23",
-          "opp": "Opponent TBA",
-          "ha": "home",
-          "time": null,
-          "res": "W",
-          "score": "2-1"
-        },
         {
           "date": "2025-09-25",
           "opp": "Opponent TBA",
@@ -233,20 +225,12 @@
           "score": "2-1"
         },
         {
-          "date": "2026-08-29",
-          "opp": "Opponent TBA",
-          "ha": "away",
-          "time": null,
-          "res": null,
-          "score": null
-        },
-        {
           "date": "2026-08-31",
           "opp": "Liberty Christian Academy",
-          "ha": "away",
-          "time": "4:00PM",
-          "res": null,
-          "score": null
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
         },
         {
           "date": "2026-09-01",
@@ -255,16 +239,24 @@
           "time": "5:00PM",
           "res": null,
           "score": null
+        },
+        {
+          "date": "2026-09-04",
+          "opp": "Opponent TBA",
+          "ha": "away",
+          "time": "4:00PM",
+          "res": null,
+          "score": null
         }
       ],
       "record": {
         "w": 1,
-        "l": 2
+        "l": 3
       }
     }
   },
   "basketball-varsity-boys": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "scraped": {
       "games": [
         {
@@ -331,7 +323,7 @@
     }
   },
   "basketball-jv-boys": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "scraped": {
       "games": [
         {
@@ -446,7 +438,7 @@
     }
   },
   "basketball-ms-boys": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "scraped": {
       "games": [
         {
@@ -553,7 +545,7 @@
     }
   },
   "baseball-hs": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "scraped": {
       "games": [],
       "record": {
@@ -563,7 +555,7 @@
     }
   },
   "volleyball-boys-varsity": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "scraped": {
       "games": [
         {

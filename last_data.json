@@ -1,6 +1,6 @@
 {
   "volleyball-girls-varsity": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "scraped": {
       "games": [],
       "record": {
@@ -10,7 +10,7 @@
     }
   },
   "volleyball-girls-jv": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "scraped": {
       "games": [
         {
@@ -109,7 +109,7 @@
     }
   },
   "volleyball-girls-ms": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "scraped": {
       "games": [
         {
@@ -225,7 +225,7 @@
           "score": null
         },
         {
-          "date": "2026-09-04",
+          "date": "2026-09-09",
           "opp": "Opponent TBA",
           "ha": "away",
           "time": "4:00PM",
@@ -240,7 +240,7 @@
     }
   },
   "basketball-varsity-boys": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "scraped": {
       "games": [
         {
@@ -282,22 +282,6 @@
           "time": null,
           "res": "W",
           "score": "69-44"
-        },
-        {
-          "date": "2026-11-16",
-          "opp": "Freedom Christian Academy",
-          "ha": "away",
-          "time": "7:00PM",
-          "res": null,
-          "score": null
-        },
-        {
-          "date": "2026-11-17",
-          "opp": "Father Capodanno",
-          "ha": "home",
-          "time": "6:00PM",
-          "res": null,
-          "score": null
         }
       ],
       "record": {
@@ -307,7 +291,7 @@
     }
   },
   "basketball-jv-boys": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "scraped": {
       "games": [
         {
@@ -422,7 +406,7 @@
     }
   },
   "basketball-ms-boys": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "scraped": {
       "games": [
         {
@@ -529,7 +513,7 @@
     }
   },
   "baseball-hs": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "scraped": {
       "games": [],
       "record": {
@@ -539,7 +523,7 @@
     }
   },
   "volleyball-boys-varsity": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "scraped": {
       "games": [
         {

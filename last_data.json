@@ -1,34 +1,35 @@
 {
   "volleyball-girls-varsity": {
-    "date": "2026-09-14",
-    "scraped": {
-      "games": [],
-      "record": {
-        "w": 0,
-        "l": 0
-      }
-    }
-  },
-  "volleyball-girls-jv": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "scraped": {
       "games": [
         {
-          "date": "2025-10-14",
-          "opp": "JV Opponent",
-          "ha": "home",
-          "time": null,
-          "res": "L",
-          "score": "0-2"
-        },
-        {
-          "date": "2025-10-20",
-          "opp": "JV Opponent",
+          "date": "2026-09-14",
+          "opp": "Alpha Academy",
           "ha": "home",
           "time": null,
           "res": "L",
           "score": "0-3"
         },
+        {
+          "date": "2026-09-15",
+          "opp": "Alpha Academy L 0-3",
+          "ha": "home",
+          "time": null,
+          "res": null,
+          "score": null
+        }
+      ],
+      "record": {
+        "w": 0,
+        "l": 1
+      }
+    }
+  },
+  "volleyball-girls-jv": {
+    "date": "2026-09-15",
+    "scraped": {
+      "games": [
         {
           "date": "2025-10-23",
           "opp": "Sandhills Classical Christian",
@@ -105,37 +106,37 @@
           "date": "2026-09-14",
           "opp": "Alpha Academy",
           "ha": "home",
-          "time": "5:30PM",
+          "time": null,
+          "res": "L",
+          "score": "0-3"
+        },
+        {
+          "date": "2026-09-15",
+          "opp": "Alpha Academy L 0-3",
+          "ha": "home",
+          "time": null,
           "res": null,
           "score": null
         },
         {
-          "date": "2026-09-15",
-          "opp": "Father Capodanno",
+          "date": "2026-09-17",
+          "opp": "Brookside Christian Academy",
           "ha": "home",
-          "time": "4:00PM",
+          "time": "5:00PM",
           "res": null,
           "score": null
         }
       ],
       "record": {
         "w": 2,
-        "l": 6
+        "l": 7
       }
     }
   },
   "volleyball-girls-ms": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "scraped": {
       "games": [
-        {
-          "date": "2025-10-21",
-          "opp": "Opponent TBA",
-          "ha": "home",
-          "time": null,
-          "res": "W",
-          "score": "2-0"
-        },
         {
           "date": "2026-08-18",
           "opp": "Northwood Temple Academy",
@@ -212,7 +213,15 @@
           "date": "2026-09-14",
           "opp": "Alpha Academy",
           "ha": "home",
-          "time": "4:30PM",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2026-09-15",
+          "opp": "Alpha Academy L 0-2",
+          "ha": "home",
+          "time": null,
           "res": null,
           "score": null
         },
@@ -227,12 +236,12 @@
       ],
       "record": {
         "w": 1,
-        "l": 8
+        "l": 9
       }
     }
   },
   "basketball-varsity-boys": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "scraped": {
       "games": [
         {
@@ -283,7 +292,7 @@
     }
   },
   "basketball-jv-boys": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "scraped": {
       "games": [
         {
@@ -398,7 +407,7 @@
     }
   },
   "basketball-ms-boys": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "scraped": {
       "games": [
         {
@@ -505,7 +514,7 @@
     }
   },
   "baseball-hs": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "scraped": {
       "games": [],
       "record": {
@@ -515,7 +524,7 @@
     }
   },
   "volleyball-boys-varsity": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "scraped": {
       "games": [
         {

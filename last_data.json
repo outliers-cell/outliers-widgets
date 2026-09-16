@@ -1,6 +1,6 @@
 {
   "volleyball-girls-varsity": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "scraped": {
       "games": [
         {
@@ -27,17 +27,9 @@
     }
   },
   "volleyball-girls-jv": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "scraped": {
       "games": [
-        {
-          "date": "2025-10-23",
-          "opp": "Sandhills Classical Christian",
-          "ha": "home",
-          "time": null,
-          "res": "L",
-          "score": "0-3"
-        },
         {
           "date": "2026-08-18",
           "opp": "Northwood Temple Academy",
@@ -112,7 +104,15 @@
         },
         {
           "date": "2026-09-15",
-          "opp": "Alpha Academy L 0-3",
+          "opp": "Father Capodanno",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "1-3"
+        },
+        {
+          "date": "2026-09-16",
+          "opp": "Father Capodanno L 1-3",
           "ha": "home",
           "time": null,
           "res": null,
@@ -129,12 +129,12 @@
       ],
       "record": {
         "w": 2,
-        "l": 7
+        "l": 8
       }
     }
   },
   "volleyball-girls-ms": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "scraped": {
       "games": [
         {
@@ -241,7 +241,7 @@
     }
   },
   "basketball-varsity-boys": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "scraped": {
       "games": [
         {
@@ -292,7 +292,7 @@
     }
   },
   "basketball-jv-boys": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "scraped": {
       "games": [
         {
@@ -407,7 +407,7 @@
     }
   },
   "basketball-ms-boys": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "scraped": {
       "games": [
         {
@@ -514,7 +514,7 @@
     }
   },
   "baseball-hs": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "scraped": {
       "games": [],
       "record": {
@@ -524,7 +524,7 @@
     }
   },
   "volleyball-boys-varsity": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "scraped": {
       "games": [
         {

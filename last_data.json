@@ -1,6 +1,6 @@
 {
   "volleyball-girls-varsity": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "scraped": {
       "games": [
         {
@@ -27,7 +27,7 @@
     }
   },
   "volleyball-girls-jv": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "scraped": {
       "games": [
         {
@@ -134,7 +134,7 @@
     }
   },
   "volleyball-girls-ms": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "scraped": {
       "games": [
         {
@@ -241,7 +241,7 @@
     }
   },
   "basketball-varsity-boys": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "scraped": {
       "games": [
         {
@@ -292,7 +292,7 @@
     }
   },
   "basketball-jv-boys": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "scraped": {
       "games": [
         {
@@ -407,7 +407,7 @@
     }
   },
   "basketball-ms-boys": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "scraped": {
       "games": [
         {
@@ -499,10 +499,10 @@
           "score": null
         },
         {
-          "date": "2026-11-20",
-          "opp": "Opponent TBA",
+          "date": "2026-11-17",
+          "opp": "Brookside Christian Academy",
           "ha": "home",
-          "time": "4:30PM",
+          "time": "4:00PM",
           "res": null,
           "score": null
         }
@@ -514,7 +514,7 @@
     }
   },
   "baseball-hs": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "scraped": {
       "games": [],
       "record": {
@@ -524,7 +524,7 @@
     }
   },
   "volleyball-boys-varsity": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "scraped": {
       "games": [
         {

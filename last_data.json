@@ -1,6 +1,6 @@
 {
   "volleyball-girls-varsity": {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "scraped": {
       "games": [
         {
@@ -27,7 +27,7 @@
     }
   },
   "volleyball-girls-jv": {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "scraped": {
       "games": [
         {
@@ -134,17 +134,9 @@
     }
   },
   "volleyball-girls-ms": {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "scraped": {
       "games": [
-        {
-          "date": "2026-08-18",
-          "opp": "Northwood Temple Academy",
-          "ha": "home",
-          "time": null,
-          "res": "L",
-          "score": "0-2"
-        },
         {
           "date": "2026-08-25",
           "opp": "Opponent TBA",
@@ -218,15 +210,23 @@
           "score": "0-2"
         },
         {
-          "date": "2026-09-15",
-          "opp": "Alpha Academy L 0-2",
+          "date": "2026-09-21",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2026-09-22",
+          "opp": "Opponent TBA",
           "ha": "home",
           "time": null,
           "res": null,
           "score": null
         },
         {
-          "date": "2026-09-21",
+          "date": "2026-09-24",
           "opp": "Opponent TBA",
           "ha": "home",
           "time": "4:00PM",
@@ -236,12 +236,12 @@
       ],
       "record": {
         "w": 1,
-        "l": 9
+        "l": 10
       }
     }
   },
   "basketball-varsity-boys": {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "scraped": {
       "games": [
         {
@@ -292,7 +292,7 @@
     }
   },
   "basketball-jv-boys": {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "scraped": {
       "games": [
         {
@@ -407,7 +407,7 @@
     }
   },
   "basketball-ms-boys": {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "scraped": {
       "games": [
         {
@@ -514,7 +514,7 @@
     }
   },
   "baseball-hs": {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "scraped": {
       "games": [],
       "record": {
@@ -524,7 +524,7 @@
     }
   },
   "volleyball-boys-varsity": {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "scraped": {
       "games": [
         {

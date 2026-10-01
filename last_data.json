@@ -1,6 +1,6 @@
 {
   "volleyball-girls-varsity": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "scraped": {
       "games": [
         {
@@ -35,7 +35,7 @@
     }
   },
   "volleyball-girls-jv": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "scraped": {
       "games": [
         {
@@ -134,17 +134,9 @@
     }
   },
   "volleyball-girls-ms": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "scraped": {
       "games": [
-        {
-          "date": "2026-09-01",
-          "opp": "Opponent TBA",
-          "ha": "home",
-          "time": null,
-          "res": "L",
-          "score": "0-2"
-        },
         {
           "date": "2026-09-08",
           "opp": "Riverside Christian Academy",
@@ -221,7 +213,15 @@
           "date": "2026-09-29",
           "opp": "Opponent TBA",
           "ha": "home",
-          "time": "4:30PM",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2026-10-01",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
           "res": null,
           "score": null
         },
@@ -244,12 +244,12 @@
       ],
       "record": {
         "w": 1,
-        "l": 13
+        "l": 14
       }
     }
   },
   "basketball-varsity-boys": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "scraped": {
       "games": [
         {
@@ -302,13 +302,13 @@
         }
       ],
       "record": {
-        "w": 10,
-        "l": 8
+        "w": 0,
+        "l": 0
       }
     }
   },
   "basketball-jv-boys": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "scraped": {
       "games": [
         {
@@ -392,6 +392,14 @@
           "score": "56-44"
         },
         {
+          "date": "2026-11-07",
+          "opp": "Oak Forest",
+          "ha": "home",
+          "time": "5:00PM",
+          "res": null,
+          "score": null
+        },
+        {
           "date": "2026-11-16",
           "opp": "Freedom Christian Academy",
           "ha": "away",
@@ -406,24 +414,16 @@
           "time": "5:00PM",
           "res": null,
           "score": null
-        },
-        {
-          "date": "2026-12-01",
-          "opp": "Covenant Crusaders",
-          "ha": "away",
-          "time": "6:00PM",
-          "res": null,
-          "score": null
         }
       ],
       "record": {
-        "w": 8,
-        "l": 17
+        "w": 0,
+        "l": 0
       }
     }
   },
   "basketball-ms-boys": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "scraped": {
       "games": [
         {
@@ -524,13 +524,13 @@
         }
       ],
       "record": {
-        "w": 7,
-        "l": 17
+        "w": 0,
+        "l": 0
       }
     }
   },
   "baseball-hs": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "scraped": {
       "games": [],
       "record": {
@@ -540,7 +540,7 @@
     }
   },
   "volleyball-boys-varsity": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "scraped": {
       "games": [
         {

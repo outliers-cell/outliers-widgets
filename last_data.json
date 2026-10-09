@@ -1,6 +1,6 @@
 {
   "volleyball-girls-varsity": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "scraped": {
       "games": [
         {
@@ -35,17 +35,9 @@
     }
   },
   "volleyball-girls-jv": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "scraped": {
       "games": [
-        {
-          "date": "2026-09-03",
-          "opp": "Cornerstone Christian Academy",
-          "ha": "home",
-          "time": null,
-          "res": "L",
-          "score": "0-2"
-        },
         {
           "date": "2026-09-08",
           "opp": "Riverside Christian Academy",
@@ -114,7 +106,15 @@
           "date": "2026-10-08",
           "opp": "Opponent TBA",
           "ha": "home",
-          "time": "6:00PM",
+          "time": null,
+          "res": "L",
+          "score": "0-3"
+        },
+        {
+          "date": "2026-10-09",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
           "res": null,
           "score": null
         },
@@ -125,26 +125,26 @@
           "time": "4:00PM",
           "res": null,
           "score": null
+        },
+        {
+          "date": "2026-10-16",
+          "opp": "Northwood Temple Academy",
+          "ha": "home",
+          "time": "5:30PM",
+          "res": null,
+          "score": null
         }
       ],
       "record": {
         "w": 4,
-        "l": 11
+        "l": 12
       }
     }
   },
   "volleyball-girls-ms": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "scraped": {
       "games": [
-        {
-          "date": "2026-09-08",
-          "opp": "Riverside Christian Academy",
-          "ha": "home",
-          "time": null,
-          "res": "L",
-          "score": "0-2"
-        },
         {
           "date": "2026-09-09",
           "opp": "Opponent TBA",
@@ -229,7 +229,15 @@
           "date": "2026-10-08",
           "opp": "Opponent TBA",
           "ha": "home",
-          "time": "5:00PM",
+          "time": null,
+          "res": "L",
+          "score": "0-2"
+        },
+        {
+          "date": "2026-10-09",
+          "opp": "Opponent TBA",
+          "ha": "home",
+          "time": null,
           "res": null,
           "score": null
         },
@@ -244,12 +252,12 @@
       ],
       "record": {
         "w": 1,
-        "l": 14
+        "l": 15
       }
     }
   },
   "basketball-varsity-boys": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "scraped": {
       "games": [
         {
@@ -324,7 +332,7 @@
     }
   },
   "basketball-jv-boys": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "scraped": {
       "games": [
         {
@@ -439,7 +447,7 @@
     }
   },
   "basketball-ms-boys": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "scraped": {
       "games": [
         {
@@ -554,7 +562,7 @@
     }
   },
   "baseball-hs": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "scraped": {
       "games": [],
       "record": {
@@ -564,7 +572,7 @@
     }
   },
   "volleyball-boys-varsity": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "scraped": {
       "games": [
         {

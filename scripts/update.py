@@ -242,9 +242,9 @@ def scrape(team, season):
     if not html: print(" FAILED"); return None
     if looks_blocked(html): print(" BLOCKED"); return None
     m = re.search(r"<title>(.*?)</title>", html, re.S | re.I)
-    title = m.group(1) if m else ""
+    title = " | ".join(re.findall(r"<title[^>]*>(.*?)</title>", html, re.S | re.I))
     if season["token"] not in title:
-        print(" season mismatch (title '" + title[-30:].strip() + "', want " + season["token"] + ") - ignoring")
+        print(" season mismatch (titles: " + title[:160] + " | html bytes " + str(len(html)) + ", tables " + str(html.count("<table")) + ", want " + season["token"] + ") - ignoring")
         return None
     games = parse_schedule_html(html, season, team["abbr"])
     print(" parsed " + str(len(games)) + " games")

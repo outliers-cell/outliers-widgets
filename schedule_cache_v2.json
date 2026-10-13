@@ -1,7 +1,7 @@
 {
  "volleyball-girls-varsity": {
   "label": "2026",
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "games": [
    {
     "date": "2026-09-14",
@@ -23,7 +23,7 @@
  },
  "volleyball-girls-jv": {
   "label": "2026",
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "games": [
    {
     "date": "2026-08-18",
@@ -173,7 +173,7 @@
  },
  "volleyball-girls-ms": {
   "label": "2026",
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "games": [
    {
     "date": "2026-08-18",
@@ -315,7 +315,7 @@
  },
  "basketball-varsity-boys": {
   "label": "2026-27",
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "games": [
    {
     "date": "2026-11-07",
@@ -433,7 +433,7 @@
  },
  "basketball-jv-boys": {
   "label": "2026-27",
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "games": [
    {
     "date": "2026-11-07",
@@ -599,7 +599,7 @@
  },
  "basketball-ms-boys": {
   "label": "2026-27",
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "games": [
    {
     "date": "2026-11-11",

@@ -1,7 +1,7 @@
 {
  "volleyball-girls-varsity": {
   "label": "2026",
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "games": [
    {
     "date": "2026-09-14",
@@ -23,7 +23,7 @@
  },
  "volleyball-girls-jv": {
   "label": "2026",
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "games": [
    {
     "date": "2026-08-18",
@@ -158,8 +158,8 @@
     "time": "4:00PM",
     "ha": "away",
     "opp": "Christ the Cornerstone Academy",
-    "res": null,
-    "score": null
+    "res": "L",
+    "score": "0-2"
    },
    {
     "date": "2026-10-16",
@@ -173,7 +173,7 @@
  },
  "volleyball-girls-ms": {
   "label": "2026",
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "games": [
    {
     "date": "2026-08-18",
@@ -315,7 +315,7 @@
  },
  "basketball-varsity-boys": {
   "label": "2026-27",
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "games": [
    {
     "date": "2026-11-07",
@@ -433,7 +433,7 @@
  },
  "basketball-jv-boys": {
   "label": "2026-27",
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "games": [
    {
     "date": "2026-11-07",
@@ -485,7 +485,7 @@
    },
    {
     "date": "2026-12-11",
-    "time": "5:00PM",
+    "time": "5:30PM",
     "ha": "home",
     "opp": "Cornerstone Christian Academy",
     "res": null,
@@ -599,7 +599,7 @@
  },
  "basketball-ms-boys": {
   "label": "2026-27",
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "games": [
    {
     "date": "2026-11-11",
@@ -652,7 +652,7 @@
    {
     "date": "2026-12-07",
     "time": "4:00PM",
-    "ha": "home",
+    "ha": "away",
     "opp": "Opponent TBA",
     "res": null,
     "score": null

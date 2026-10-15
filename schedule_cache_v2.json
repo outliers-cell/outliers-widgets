@@ -1,7 +1,7 @@
 {
  "volleyball-girls-varsity": {
   "label": "2026",
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "games": [
    {
     "date": "2026-09-14",
@@ -23,7 +23,7 @@
  },
  "volleyball-girls-jv": {
   "label": "2026",
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "games": [
    {
     "date": "2026-08-18",
@@ -173,7 +173,7 @@
  },
  "volleyball-girls-ms": {
   "label": "2026",
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "games": [
    {
     "date": "2026-08-18",
@@ -315,7 +315,7 @@
  },
  "basketball-varsity-boys": {
   "label": "2026-27",
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "games": [
    {
     "date": "2026-11-07",
@@ -388,52 +388,12 @@
     "opp": "Covenant Crusaders",
     "res": null,
     "score": null
-   },
-   {
-    "date": "2027-03-01",
-    "time": null,
-    "ha": "home",
-    "opp": "2027 Gatlinburg Homeschool Classic National Champi",
-    "res": null,
-    "score": null
-   },
-   {
-    "date": "2027-03-02",
-    "time": null,
-    "ha": "home",
-    "opp": "2027 Gatlinburg Homeschool Classic National Champi",
-    "res": null,
-    "score": null
-   },
-   {
-    "date": "2027-03-03",
-    "time": null,
-    "ha": "home",
-    "opp": "2027 Gatlinburg Homeschool Classic National Champi",
-    "res": null,
-    "score": null
-   },
-   {
-    "date": "2027-03-04",
-    "time": null,
-    "ha": "home",
-    "opp": "2027 Gatlinburg Homeschool Classic National Champi",
-    "res": null,
-    "score": null
-   },
-   {
-    "date": "2027-03-05",
-    "time": null,
-    "ha": "home",
-    "opp": "2027 Gatlinburg Homeschool Classic National Champi",
-    "res": null,
-    "score": null
    }
   ]
  },
  "basketball-jv-boys": {
   "label": "2026-27",
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "games": [
    {
     "date": "2026-11-07",
@@ -599,7 +559,7 @@
  },
  "basketball-ms-boys": {
   "label": "2026-27",
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "games": [
    {
     "date": "2026-11-11",

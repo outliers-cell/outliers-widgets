@@ -1,7 +1,7 @@
 {
  "volleyball-girls-varsity": {
   "label": "2026",
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "games": [
    {
     "date": "2026-09-14",
@@ -23,7 +23,7 @@
  },
  "volleyball-girls-jv": {
   "label": "2026",
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "games": [
    {
     "date": "2026-08-18",
@@ -173,7 +173,7 @@
  },
  "volleyball-girls-ms": {
   "label": "2026",
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "games": [
    {
     "date": "2026-08-18",
@@ -315,7 +315,7 @@
  },
  "basketball-varsity-boys": {
   "label": "2026-27",
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "games": [
    {
     "date": "2026-11-07",
@@ -393,7 +393,7 @@
  },
  "basketball-jv-boys": {
   "label": "2026-27",
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "games": [
    {
     "date": "2026-11-07",
@@ -437,7 +437,7 @@
    },
    {
     "date": "2026-12-10",
-    "time": "5:30PM",
+    "time": "4:00PM",
     "ha": "away",
     "opp": "Freedom Christian Academy",
     "res": null,
@@ -517,7 +517,7 @@
    },
    {
     "date": "2027-01-26",
-    "time": "7:00PM",
+    "time": "5:30PM",
     "ha": "away",
     "opp": "Alpha Academy",
     "res": null,
@@ -533,7 +533,7 @@
    },
    {
     "date": "2027-02-08",
-    "time": "7:00PM",
+    "time": "7:30PM",
     "ha": "away",
     "opp": "Riverside Christian Academy",
     "res": null,
@@ -541,7 +541,7 @@
    },
    {
     "date": "2027-02-11",
-    "time": "5:30PM",
+    "time": "7:15PM",
     "ha": "away",
     "opp": "Grovemont",
     "res": null,
@@ -559,7 +559,7 @@
  },
  "basketball-ms-boys": {
   "label": "2026-27",
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "games": [
    {
     "date": "2026-11-11",
@@ -723,7 +723,7 @@
    },
    {
     "date": "2027-02-08",
-    "time": "6:00PM",
+    "time": "6:30PM",
     "ha": "away",
     "opp": "Riverside Christian Academy",
     "res": null,
@@ -731,7 +731,7 @@
    },
    {
     "date": "2027-02-11",
-    "time": "4:30PM",
+    "time": "6:15PM",
     "ha": "away",
     "opp": "Grovemont",
     "res": null,

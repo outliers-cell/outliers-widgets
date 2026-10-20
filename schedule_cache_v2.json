@@ -1,7 +1,7 @@
 {
  "volleyball-girls-varsity": {
   "label": "2026",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "games": [
    {
     "date": "2026-09-14",
@@ -23,7 +23,7 @@
  },
  "volleyball-girls-jv": {
   "label": "2026",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "games": [
    {
     "date": "2026-08-18",
@@ -173,7 +173,7 @@
  },
  "volleyball-girls-ms": {
   "label": "2026",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "games": [
    {
     "date": "2026-08-18",
@@ -315,7 +315,7 @@
  },
  "basketball-varsity-boys": {
   "label": "2026-27",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "games": [
    {
     "date": "2026-11-07",
@@ -393,7 +393,7 @@
  },
  "basketball-jv-boys": {
   "label": "2026-27",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "games": [
    {
     "date": "2026-11-07",
@@ -461,7 +461,7 @@
    },
    {
     "date": "2026-12-15",
-    "time": "5:00PM",
+    "time": "5:30PM",
     "ha": "home",
     "opp": "Cornerstone Christian Academy",
     "res": null,
@@ -485,7 +485,7 @@
    },
    {
     "date": "2027-01-15",
-    "time": "6:00PM",
+    "time": "7:00PM",
     "ha": "home",
     "opp": "Grovemont",
     "res": null,
@@ -525,7 +525,7 @@
    },
    {
     "date": "2027-01-29",
-    "time": "5:00PM",
+    "time": "5:45PM",
     "ha": "away",
     "opp": "Cornerstone Christian Academy",
     "res": null,
@@ -559,7 +559,7 @@
  },
  "basketball-ms-boys": {
   "label": "2026-27",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "games": [
    {
     "date": "2026-11-11",
@@ -619,7 +619,7 @@
    },
    {
     "date": "2026-12-15",
-    "time": "4:00PM",
+    "time": "4:30PM",
     "ha": "home",
     "opp": "Cornerstone Christian Academy",
     "res": null,
@@ -667,7 +667,7 @@
    },
    {
     "date": "2027-01-15",
-    "time": "5:00PM",
+    "time": "6:00PM",
     "ha": "home",
     "opp": "Grovemont",
     "res": null,
@@ -699,8 +699,8 @@
    },
    {
     "date": "2027-01-29",
-    "time": "4:00PM",
-    "ha": "home",
+    "time": "4:30PM",
+    "ha": "away",
     "opp": "Cornerstone Christian Academy",
     "res": null,
     "score": null

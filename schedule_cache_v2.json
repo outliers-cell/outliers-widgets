@@ -1,7 +1,7 @@
 {
  "volleyball-girls-varsity": {
   "label": "2026",
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "games": [
    {
     "date": "2026-09-14",
@@ -23,7 +23,7 @@
  },
  "volleyball-girls-jv": {
   "label": "2026",
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "games": [
    {
     "date": "2026-08-18",
@@ -173,7 +173,7 @@
  },
  "volleyball-girls-ms": {
   "label": "2026",
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "games": [
    {
     "date": "2026-08-18",
@@ -315,7 +315,7 @@
  },
  "basketball-varsity-boys": {
   "label": "2026-27",
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "games": [
    {
     "date": "2026-11-07",
@@ -335,7 +335,7 @@
    },
    {
     "date": "2026-11-14",
-    "time": "6:30PM",
+    "time": "7:30PM",
     "ha": "home",
     "opp": "WCAHS",
     "res": null,
@@ -369,7 +369,7 @@
  },
  "basketball-jv-boys": {
   "label": "2026-27",
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "games": [
    {
     "date": "2026-11-07",
@@ -444,14 +444,6 @@
     "score": null
    },
    {
-    "date": "2026-12-18",
-    "time": "5:45PM",
-    "ha": "away",
-    "opp": "Opponent TBA",
-    "res": null,
-    "score": null
-   },
-   {
     "date": "2027-01-04",
     "time": "5:30PM",
     "ha": "home",
@@ -464,14 +456,6 @@
     "time": "7:00PM",
     "ha": "home",
     "opp": "Grovemont",
-    "res": null,
-    "score": null
-   },
-   {
-    "date": "2027-01-18",
-    "time": "5:45PM",
-    "ha": "home",
-    "opp": "Opponent TBA",
     "res": null,
     "score": null
    },
@@ -535,7 +519,7 @@
  },
  "basketball-ms-boys": {
   "label": "2026-27",
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "games": [
    {
     "date": "2026-11-16",
@@ -586,14 +570,6 @@
     "score": null
    },
    {
-    "date": "2026-12-18",
-    "time": "4:30PM",
-    "ha": "away",
-    "opp": "Opponent TBA",
-    "res": null,
-    "score": null
-   },
-   {
     "date": "2027-01-07",
     "time": "4:00PM",
     "ha": "home",
@@ -630,14 +606,6 @@
     "time": "6:00PM",
     "ha": "home",
     "opp": "Grovemont",
-    "res": null,
-    "score": null
-   },
-   {
-    "date": "2027-01-18",
-    "time": "4:30PM",
-    "ha": "home",
-    "opp": "Opponent TBA",
     "res": null,
     "score": null
    },

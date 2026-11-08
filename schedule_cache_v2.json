@@ -1,7 +1,7 @@
 {
  "volleyball-girls-varsity": {
   "label": "2026",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "games": [
    {
     "date": "2026-09-14",
@@ -23,7 +23,7 @@
  },
  "volleyball-girls-jv": {
   "label": "2026",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "games": [
    {
     "date": "2026-08-18",
@@ -173,7 +173,7 @@
  },
  "volleyball-girls-ms": {
   "label": "2026",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "games": [
    {
     "date": "2026-08-18",
@@ -315,15 +315,15 @@
  },
  "basketball-varsity-boys": {
   "label": "2026-27",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "games": [
    {
     "date": "2026-11-07",
     "time": "1:15PM",
     "ha": "home",
     "opp": "Durham Flight HomeSchool",
-    "res": null,
-    "score": null
+    "res": "L",
+    "score": "10-59"
    },
    {
     "date": "2026-11-13",
@@ -369,7 +369,7 @@
  },
  "basketball-jv-boys": {
   "label": "2026-27",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "games": [
    {
     "date": "2026-11-07",
@@ -392,14 +392,6 @@
     "time": "5:00PM",
     "ha": "home",
     "opp": "SHHA",
-    "res": null,
-    "score": null
-   },
-   {
-    "date": "2026-12-01",
-    "time": "6:00PM",
-    "ha": "away",
-    "opp": "Covenant Crusaders",
     "res": null,
     "score": null
    },
@@ -440,14 +432,6 @@
     "time": "5:30PM",
     "ha": "home",
     "opp": "Cornerstone Christian Academy",
-    "res": null,
-    "score": null
-   },
-   {
-    "date": "2027-01-04",
-    "time": "5:30PM",
-    "ha": "home",
-    "opp": "Covenant Crusaders",
     "res": null,
     "score": null
    },
@@ -519,7 +503,7 @@
  },
  "basketball-ms-boys": {
   "label": "2026-27",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "games": [
    {
     "date": "2026-11-16",
@@ -534,6 +518,14 @@
     "time": "4:00PM",
     "ha": "home",
     "opp": "Brookside Christian Academy",
+    "res": null,
+    "score": null
+   },
+   {
+    "date": "2026-12-01",
+    "time": "6:00PM",
+    "ha": "away",
+    "opp": "Covenant Crusaders",
     "res": null,
     "score": null
    },
@@ -566,6 +558,14 @@
     "time": "4:30PM",
     "ha": "home",
     "opp": "Cornerstone Christian Academy",
+    "res": null,
+    "score": null
+   },
+   {
+    "date": "2027-01-04",
+    "time": "5:30PM",
+    "ha": "home",
+    "opp": "Covenant Crusaders",
     "res": null,
     "score": null
    },

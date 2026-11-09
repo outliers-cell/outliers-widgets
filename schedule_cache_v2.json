@@ -1,7 +1,7 @@
 {
  "volleyball-girls-varsity": {
   "label": "2026",
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "games": [
    {
     "date": "2026-09-14",
@@ -23,7 +23,7 @@
  },
  "volleyball-girls-jv": {
   "label": "2026",
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "games": [
    {
     "date": "2026-08-18",
@@ -173,7 +173,7 @@
  },
  "volleyball-girls-ms": {
   "label": "2026",
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "games": [
    {
     "date": "2026-08-18",
@@ -315,7 +315,7 @@
  },
  "basketball-varsity-boys": {
   "label": "2026-27",
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "games": [
    {
     "date": "2026-11-07",
@@ -369,15 +369,15 @@
  },
  "basketball-jv-boys": {
   "label": "2026-27",
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "games": [
    {
     "date": "2026-11-07",
     "time": "5:00PM",
     "ha": "home",
     "opp": "Oak Forest",
-    "res": null,
-    "score": null
+    "res": "L",
+    "score": "19-44"
    },
    {
     "date": "2026-11-16",
@@ -503,7 +503,7 @@
  },
  "basketball-ms-boys": {
   "label": "2026-27",
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "games": [
    {
     "date": "2026-11-16",

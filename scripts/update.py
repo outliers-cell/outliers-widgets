@@ -209,7 +209,7 @@ def parse_schedule_html(html, season, abbr):
         opp = " ".join(rest)
         # MaxPreps glues badge letter into text in some layouts ("N Non JV Opponent")
         opp = re.sub(r"^([A-Za-z]) (?=\1)", "", opp, flags=re.I)
-        res_txt = tds[2].get_text(" ", strip=True) if len(tds) > 2 else ""
+        res_txt = next((x.get_text(" ", strip=True) for x in tds[2:] if re.match(r"^[WLT]\s*\d+\s*[-–]\s*\d+", x.get_text(" ", strip=True))), "")
         g = make_game(md, tm, ha_tok, opp, res_txt, season, abbr)
         if g: games.append(g)
     games.sort(key=lambda g: g["date"])

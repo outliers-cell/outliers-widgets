@@ -1,7 +1,7 @@
 {
  "volleyball-girls-varsity": {
   "label": "2026",
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "games": [
    {
     "date": "2026-09-14",
@@ -23,7 +23,7 @@
  },
  "volleyball-girls-jv": {
   "label": "2026",
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "games": [
    {
     "date": "2026-08-18",
@@ -173,7 +173,7 @@
  },
  "volleyball-girls-ms": {
   "label": "2026",
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "games": [
    {
     "date": "2026-08-18",
@@ -315,7 +315,7 @@
  },
  "basketball-varsity-boys": {
   "label": "2026-27",
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "games": [
    {
     "date": "2026-11-07",
@@ -330,14 +330,22 @@
     "time": "6:30PM",
     "ha": "home",
     "opp": "SHHA",
-    "res": null,
-    "score": null
+    "res": "L",
+    "score": "34-44"
    },
    {
     "date": "2026-11-14",
     "time": "7:30PM",
     "ha": "home",
     "opp": "WCAHS",
+    "res": null,
+    "score": null
+   },
+   {
+    "date": "2026-11-17",
+    "time": "5:00PM",
+    "ha": "home",
+    "opp": "SHHA",
     "res": null,
     "score": null
    },
@@ -364,12 +372,20 @@
     "opp": "Covenant Crusaders",
     "res": null,
     "score": null
+   },
+   {
+    "date": "2027-01-19",
+    "time": "6:30PM",
+    "ha": "away",
+    "opp": "SHHA",
+    "res": null,
+    "score": null
    }
   ]
  },
  "basketball-jv-boys": {
   "label": "2026-27",
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "games": [
    {
     "date": "2026-11-07",
@@ -384,14 +400,6 @@
     "time": "5:30PM",
     "ha": "away",
     "opp": "Freedom Christian Academy",
-    "res": null,
-    "score": null
-   },
-   {
-    "date": "2026-11-17",
-    "time": "5:00PM",
-    "ha": "home",
-    "opp": "SHHA",
     "res": null,
     "score": null
    },
@@ -444,14 +452,6 @@
     "score": null
    },
    {
-    "date": "2027-01-19",
-    "time": "6:30PM",
-    "ha": "away",
-    "opp": "SHHA",
-    "res": null,
-    "score": null
-   },
-   {
     "date": "2027-01-22",
     "time": "6:00PM",
     "ha": "home",
@@ -472,6 +472,14 @@
     "time": "6:30PM",
     "ha": "away",
     "opp": "Cornerstone Christian Academy",
+    "res": null,
+    "score": null
+   },
+   {
+    "date": "2027-02-02",
+    "time": "5:30PM",
+    "ha": "home",
+    "opp": "Opponent TBA",
     "res": null,
     "score": null
    },
@@ -503,7 +511,7 @@
  },
  "basketball-ms-boys": {
   "label": "2026-27",
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "games": [
    {
     "date": "2026-11-16",
@@ -630,6 +638,14 @@
     "time": "5:15PM",
     "ha": "away",
     "opp": "Cornerstone Christian Academy",
+    "res": null,
+    "score": null
+   },
+   {
+    "date": "2027-02-02",
+    "time": "4:30PM",
+    "ha": "home",
+    "opp": "Opponent TBA",
     "res": null,
     "score": null
    },

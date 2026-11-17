@@ -1,7 +1,7 @@
 {
  "volleyball-girls-varsity": {
   "label": "2026",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "games": [
    {
     "date": "2026-09-14",
@@ -23,7 +23,7 @@
  },
  "volleyball-girls-jv": {
   "label": "2026",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "games": [
    {
     "date": "2026-08-18",
@@ -173,7 +173,7 @@
  },
  "volleyball-girls-ms": {
   "label": "2026",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "games": [
    {
     "date": "2026-08-18",
@@ -315,7 +315,7 @@
  },
  "basketball-varsity-boys": {
   "label": "2026-27",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "games": [
    {
     "date": "2026-11-07",
@@ -385,7 +385,7 @@
  },
  "basketball-jv-boys": {
   "label": "2026-27",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "games": [
    {
     "date": "2026-11-07",
@@ -400,8 +400,8 @@
     "time": "5:30PM",
     "ha": "away",
     "opp": "Freedom Christian Academy",
-    "res": null,
-    "score": null
+    "res": "L",
+    "score": "37-57"
    },
    {
     "date": "2026-12-03",
@@ -484,6 +484,14 @@
     "score": null
    },
    {
+    "date": "2027-02-04",
+    "time": "5:00PM",
+    "ha": "away",
+    "opp": "Chatham HomeSchool",
+    "res": null,
+    "score": null
+   },
+   {
     "date": "2027-02-08",
     "time": "7:30PM",
     "ha": "away",
@@ -511,15 +519,15 @@
  },
  "basketball-ms-boys": {
   "label": "2026-27",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "games": [
    {
     "date": "2026-11-16",
     "time": "4:00PM",
     "ha": "away",
     "opp": "Freedom Christian Academy",
-    "res": null,
-    "score": null
+    "res": "L",
+    "score": "29-51"
    },
    {
     "date": "2026-11-17",
@@ -646,6 +654,14 @@
     "time": "4:30PM",
     "ha": "home",
     "opp": "Opponent TBA",
+    "res": null,
+    "score": null
+   },
+   {
+    "date": "2027-02-04",
+    "time": "4:00PM",
+    "ha": "away",
+    "opp": "Chatham HomeSchool",
     "res": null,
     "score": null
    },
